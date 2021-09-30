@@ -101,7 +101,7 @@ print("\n {0} faces trained.".format(len(np.unique(ids))))
 
 
 **Face Recognizer**
-```
+```python
 import cv2
 from cv2 import imread
 from cv2 import imshow
