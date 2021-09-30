@@ -1,4 +1,4 @@
-# Face-Recognition
+# Face-Recognition using Open-CV
 
 **Detection and dataset cretion**
 
